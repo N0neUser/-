@@ -1,0 +1,28 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+p{
+    text-align: justify;
+    font-size: 16pt; }
+h1 , h2{
+    text-align: center;
+}
+p {
+    text-align: justify;
+}
+img {
+    width: 100%;
+}
+.desc {
+    color: aquamarine;
+
+}
+
+.termin {
+    font-family: monospace;
+    background-color: aquamarine;
+    padding: 30px;
+    border-radius: 20px;
+    border: 1px solid darkcyan;
+}
